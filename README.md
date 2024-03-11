@@ -1,3 +1,3 @@
 # PowershellProject
 PSCA12 Project
-THis is jsut practice :)
+THis is just practice :)
